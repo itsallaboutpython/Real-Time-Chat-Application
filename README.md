@@ -1,6 +1,6 @@
 # Real Time Chat Application
 ## A real time chat application, created using tkinter module and socket programming
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4szHLaj383c/0.jpg)](https://youtu.be/4szHLaj383c)
+[![VIDEO COMING SOON](https://img.youtube.com/vi/4szHLaj383c/0.jpg)](https://youtu.be/4szHLaj383c)
 ### Installation
 Open terminal and type the following command
 ```
