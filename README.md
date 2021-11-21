@@ -18,8 +18,8 @@ Once the server is up and running, create a client by running client script, whi
 python client.py
 ```
 
-To get more info, check out my
-Youtube: [Click here](https://www.youtube.com/channel/UCggZvARaczWC4wc4E6f330w?sub_confirmation=1)
-Instagram; [Click here](http://instagram.com/itsallaboutpython)
-Blog-site: [Click here](http://itsallaboutpython.blogspot.com/)
+To get more info, check out my\
+Youtube: [Click here](https://www.youtube.com/channel/UCggZvARaczWC4wc4E6f330w?sub_confirmation=1)\
+Instagram; [Click here](http://instagram.com/itsallaboutpython)\
+Blog-site: [Click here](http://itsallaboutpython.blogspot.com/)\
 Dev.to: [Click here](https://dev.to/visheshdvivedi)
