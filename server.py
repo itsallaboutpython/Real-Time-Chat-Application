@@ -2,9 +2,8 @@
 import socket
 import threading
 
-HOST = '127.0.0.1'
-PORT = 1234 # You can use any port between 0 to 65535
-LISTENER_LIMIT = 5
+HOST = '35.208.151.24'
+PORT = 32973 # You can use any port between 0 to 65535
 active_clients = [] # List of all currently connected users
 
 # Function to listen for upcoming messages from a client
@@ -71,7 +70,7 @@ def main():
         print(f"Unable to bind to host {HOST} and port {PORT}")
 
     # Set server limit
-    server.listen(LISTENER_LIMIT)
+    server.listen()
 
     # This while loop will keep listening to client connections
     while 1:
